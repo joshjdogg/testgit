@@ -1,2 +1,6 @@
 lksflsa;kdsa;lkdfdsa;kfdsa;kjdsa;lkfjds;lkjdsa
+<<<<<<< HEAD
 branch #2
+=======
+more stuff
+>>>>>>> 475f5cb... change on the bb branch
